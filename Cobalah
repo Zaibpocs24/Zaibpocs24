@@ -1,0 +1,12 @@
+HACK PULSA
+$ pkg update
+$ pkg upgrade
+$ pkg install PHP
+$ pkg install toilet
+$ pkg install git
+$ git clone https://github.com/Zaibpocs24/PULSA
+$ cd pulsa
+$ ls
+$ chmod +x*
+$ ls
+$ sh pulsa.sh
